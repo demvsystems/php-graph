@@ -14,7 +14,7 @@
         "php": ">=7.4",
         "dgame/php-ensurance": "^2.3",
         "monolog/monolog": "^1.27 || ^2.5",
-        "psr/container": "^1.0"
+        "psr/container": "^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
